@@ -204,6 +204,7 @@ p.in-stock {color: #7a9c59;}
 .nav-dark .cart-icon strong {color: #fff;border-color: #fff;}
 .nav-dark .current-dropdown .cart-icon strong, .nav-dark .cart-icon:hover strong {background-color: #fff;color: #446084;}
 .nav-dark .cart-icon strong:after {border-color: #fff;}
+.woocommerce-mini-cart__empty-message {text-align: center;}
 .loading .cart-icon strong, .loading .cart-icon strong:after {border-color: #7a9c59;color: #7a9c59;}
 .loading .cart-icon:hover strong {background-color: #7a9c59;color: #fff;}
 .header-cart-icon {position: relative;}
