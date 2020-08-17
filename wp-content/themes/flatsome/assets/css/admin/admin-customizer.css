@@ -16,6 +16,7 @@
 #accordion-section-share>h3:before {content: "";}
 #accordion-section-pages>h3:before {content: "";}
 #accordion-section-fl-portfolio>h3:before {content: "";}
+#accordion-section-notifications>h3:before {content: "";}
 #accordion-panel-woocommerce .panel-title:before, #accordion-panel-woocommerce>h3:before {content: "";}
 #accordion-panel-style .panel-title:before, #accordion-panel-style>h3:before {content: "";}
 #accordion-panel-widgets .panel-title:before, #accordion-panel-widgets>h3:before {content: "";}
